@@ -1,0 +1,7 @@
+{
+  "name": "Examen-1B",
+  "version": "1.0.0",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
